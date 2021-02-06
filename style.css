@@ -19,7 +19,7 @@
   position: fixed;
   width: 50px;
   height: 50px;
-  background: #27ae60;
+  background: #45569f;
   bottom: 40px;
   right: 50px;
 
@@ -123,7 +123,7 @@
 	}
 
 	footer {
-	  background: #373737;
+	  background: #45569f;
 	  margin-top: auto;
 	  width: 100%;
 	}
