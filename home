@@ -189,12 +189,12 @@
                     
             <footer class="flex-rw">
 
-
+<center>
             <div class="footer-bottom-wrapper">   
 
 
-             <p  id="footer"> <center>&nbsp;&nbsp;&nbsp;&nbsp; Développer par: Hind FATHI</center></p> 
-                </div>
+             <p  id="footer"> &nbsp;&nbsp;&nbsp;&nbsp; Développer par: Hind FATHI</p> 
+                </div></center>
                 <br><br>
               &nbsp;
               </section>
