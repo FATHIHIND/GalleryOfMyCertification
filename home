@@ -190,7 +190,7 @@
                 
             <footer class="flex-rw">
 
-<center>
+             <center>
             <div class="footer-bottom-wrapper">   
 
 
@@ -198,11 +198,11 @@
                 </div></center>
                 <br><br>
               &nbsp;
-              </section>
+              
             </footer>
-            
+             <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>  
         </section>
-  <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>  
+ 
     </main>
  
     <aside role="complementary" id="aside" aria-hidden="true" aria-expanded="false">
