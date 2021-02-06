@@ -9,6 +9,7 @@
    
 </head>
 <body>
+<main role="main" id="main">
     <nav class="navbar navbar-light" style="background-color: #45569f;height: 54px;">
         
     </nav>
@@ -31,6 +32,6 @@
         <img class="responsive"  style="border-radius: 11px" src="certification/Angular.png" class="img-fluid" alt="Responsive image">           
         </center>
     </center>
-  
+  </main>
 </body>
 </html>
