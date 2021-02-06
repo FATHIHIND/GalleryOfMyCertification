@@ -187,7 +187,9 @@
                 </li>
             </ul>
         </section>
-    
+          <div class="footer">
+      <p>Footer</p>
+     </div>
     </main>
     
     <aside role="complementary" id="aside" aria-hidden="true" aria-expanded="false">
@@ -196,9 +198,7 @@
             
         </div>
     </aside>
-     <div class="footer">
-      <p>Footer</p>
-     </div>
+
     
 </body>
 </html>
