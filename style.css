@@ -146,115 +146,11 @@
 	  margin-top: 13px !important;
 	  margin-bottom: -37px;
           margin: 0 auto;
-          margin-left: 554px !important;
+         
 
 	}
 
 
-/* Smartphones (portrait and landscape) ----------- */
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-  p#footer {
-	    margin-top: 13px !important;
-	    margin-bottom: -37px;
-	    margin: 0 auto;
-            margin-left: 145px !important;
-	}
-}
 
-/* Smartphones (landscape) ----------- */
-@media only screen 
-and (min-width : 321px) {
-  p#footer {
-	    margin-top: 13px !important;
-	    margin-bottom: -37px;
-	    margin: 0 auto;
-            margin-left: 145px !important;
-	}
-}
-
-/* Smartphones (portrait) ----------- */
-@media only screen 
-and (max-width : 320px) {
-  p#footer {
-	    margin-top: 13px !important;
-	    margin-bottom: -37px;
-	    margin: 0 auto;
-            margin-left: 145px !important;
-	}
-}
-
-/* iPads (portrait and landscape) ----------- */
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) {
-  p#footer {
-	    margin-top: 13px !important;
-	    margin-bottom: -37px;
-	    margin: 0 auto;
-            margin-left: 145px !important;
-	}
-}
-
-/* iPads (landscape) ----------- */
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : landscape) {
-  p#footer {
-	    margin-top: 13px !important;
-	    margin-bottom: -37px;
-	    margin: 0 auto;
-            margin-left: 145px !important;
-	}
-}
-
-/* iPads (portrait) ----------- */
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : portrait) {
-  p#footer {
-	    margin-top: 13px !important;
-	    margin-bottom: -37px;
-	    margin: 0 auto;
-            margin-left: 145px !important;
-	}
-}
-
-/* Desktops and laptops ----------- */
-@media only screen 
-and (min-width : 1224px) {
-  p#footer {
-	    margin-top: 13px !important;
-	    margin-bottom: -37px;
-	    margin: 0 auto;
-            margin-left: 145px !important;
-	}
-}
-
-/* Large screens ----------- */
-@media only screen 
-and (min-width : 1824px) {
-  p#footer {
-	    margin-top: 13px !important;
-	    margin-bottom: -37px;
-	    margin: 0 auto;
-            margin-left: 145px !important;
-	}
-}
-
-/* iPhone 4 ----------- */
-@media
-only screen and (-webkit-min-device-pixel-ratio : 1.5),
-only screen and (min-device-pixel-ratio : 1.5) {
-  p#footer {
-	    margin-top: 13px !important;
-	    margin-bottom: -37px;
-	    margin: 0 auto;
-            margin-left: 145px !important;
-	}
-}
 
 
