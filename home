@@ -12,9 +12,9 @@
 </head>
 <body>
   
-   <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-arrow-to-top"></i>Top</button>
+   
     <main role="main" id="main">
-
+        <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-arrow-to-top"></i>Top</button>
         <nav class="navbar navbar-light" style="background-color: #45569f;height: 54px;">
         
         </nav>
