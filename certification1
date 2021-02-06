@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Angular : Les services et les web services</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style1.css">
    
 </head>
 <body>
-<main role="main" id="main">
+
     <nav class="navbar navbar-light" style="background-color: #45569f;height: 54px;">
         
     </nav>
@@ -32,6 +32,6 @@
         <img class="responsive"  style="border-radius: 11px" src="certification/Angular.png" class="img-fluid" alt="Responsive image">           
         </center>
     </center>
-  </main>
+  
 </body>
 </html>
