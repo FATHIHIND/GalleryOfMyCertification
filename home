@@ -187,11 +187,11 @@
                 </li>
             </ul>
         </section>
-          <div class="footer">
+  
+    </main>
+            <div class="footer">
       <p>Footer</p>
      </div>
-    </main>
-    
     <aside role="complementary" id="aside" aria-hidden="true" aria-expanded="false">
         <a href="#" class="close"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/15309/close-white-thin.svg" alt="Close button"><span class="visually-hidden">Return to main content</span></a>
         <div class="aside--details" tabindex="0" aria-live="polite" aria-atomic="true" aria-label="Image details">
