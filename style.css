@@ -40,6 +40,13 @@
 	#main {
 	  padding: 1em;
 	}
+	  p#footer {
+	    margin-top: 13px !important;
+	    margin-bottom: -37px;
+	    margin: 0 auto;
+            margin-left: 145px !important;
+	}
+        
   }
   .fake-section {
 	background: #eee;
