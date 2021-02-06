@@ -190,19 +190,20 @@
                 
             <footer class="flex-rw">
 
-             <center>
+             
             <div class="footer-bottom-wrapper">   
 
-
+            <center>
              <p  id="footer"> &nbsp;&nbsp;&nbsp; Développer par: Hind FATHI</p> 
-                </div></center>
-                <br><br>
-              &nbsp;
+             </center>
+             </div>
+             <br><br> &nbsp;
+             
                 
             </footer>
              
         </section>
- <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>
+         <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>
     </main>
  
     <aside role="complementary" id="aside" aria-hidden="true" aria-expanded="false">
