@@ -198,9 +198,9 @@
                 </div></center>
                 <br><br>
               &nbsp;
-              
+              <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>  
             </footer>
-             <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>  
+             
         </section>
  
     </main>
