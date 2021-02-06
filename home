@@ -194,7 +194,7 @@
             <div class="footer-bottom-wrapper">   
 
              <center
-             <p  id="footer"> &nbsp;&nbsp;&nbsp; Développer par: Hind FATHI</p> 
+             <p  id="footer" style="text-align: center;"> &nbsp;&nbsp;&nbsp; Développer par: Hind FATHI</p> 
              </center>
              </div>
              <br><br> &nbsp;
