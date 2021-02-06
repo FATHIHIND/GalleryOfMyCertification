@@ -23,17 +23,3 @@
     width: 80%;
     height: auto;
   }
-  body {
-	margin: 0;
-  }
-  #main {
-	position: relative;
-	z-index: 20;
-	background: #fff;
-	transition: transform 0.6s ease;
-  }
-  @media (min-width: 640px) {
-	#main {
-	  padding: 1em;
-	}
-  }
