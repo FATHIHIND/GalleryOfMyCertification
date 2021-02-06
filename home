@@ -186,9 +186,19 @@
                     </a>
                 </li>
             </ul>
-                       <div class="footer">
-      <p>Footer</p>
-     </div>
+                     
+            <footer class="flex-rw">
+
+
+            <div class="footer-bottom-wrapper">   
+
+
+              <p  id="footer"> Développer par Hind FATHI 'Développeuse web'</p>
+                </div>
+                <br><br>
+              &nbsp;
+              </section>
+            </footer>
         </section>
   
     </main>
