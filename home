@@ -189,7 +189,19 @@
             </ul>
                 
          
-             <footer>
+              
+        </section>
+         <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>
+    </main>
+ 
+    <aside role="complementary" id="aside" aria-hidden="true" aria-expanded="false">
+        <a href="#" class="close"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/15309/close-white-thin.svg" alt="Close button"><span class="visually-hidden">Return to main content</span></a>
+        <div class="aside--details" tabindex="0" aria-live="polite" aria-atomic="true" aria-label="Image details">
+            
+        </div>
+    </aside>
+
+       <footer>
       <div class="main-content">
         <div class="left box">
           <h2>About us</h2>
@@ -248,18 +260,6 @@
         </center>
       </div>
     </footer>
-             
-        </section>
-         <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>
-    </main>
- 
-    <aside role="complementary" id="aside" aria-hidden="true" aria-expanded="false">
-        <a href="#" class="close"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/15309/close-white-thin.svg" alt="Close button"><span class="visually-hidden">Return to main content</span></a>
-        <div class="aside--details" tabindex="0" aria-live="polite" aria-atomic="true" aria-label="Image details">
-            
-        </div>
-    </aside>
-
-      
+           
 </body>
 </html>
