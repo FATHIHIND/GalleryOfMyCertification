@@ -12,12 +12,12 @@
 </head>
 <body>
   
-   <nav class="navbar navbar-light" style="background-color: #45569f;height: 54px;margin-top: -16px !important;">
-        
-        </nav>
+   
     <main role="main" id="main">
        
+        <nav class="navbar navbar-light" style="background-color: #45569f;height: 54px;margin-top: -16px !important;">
         
+        </nav>
         <center>
             <p id="list" style="margin-top: -43px !important;color: white;">
                 Liste de mes certifications | Hind FATHI (Développeuse web)
