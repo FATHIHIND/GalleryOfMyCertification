@@ -12,12 +12,12 @@ html, body {
   }
   #home {
    
-    color: white;
+    color: #45569f;
     border-style: solid;
     border-width : 1px 1px 1px 1px;
     text-decoration : none;
     padding : 4px;
-    border-color : white;
+    border-color : #45569f;
   }
   .responsive {
     width: 90%;
