@@ -15,7 +15,7 @@
    
     <main role="main" id="main">
        
-        <nav class="navbar navbar-light" style="background-color: #45569f;height: 54px;">
+        <nav class="navbar navbar-light" style="background-color: #45569f;height: 54px;margin-top: -16px !important;">
         
         </nav>
         <center>
