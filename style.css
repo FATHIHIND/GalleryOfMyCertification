@@ -131,6 +131,7 @@
   position: relative;
   height: auto;
   background-color: #070617;
+  margin-bottom: -19px !important;
 }
 .footer .col {
   width: 190px;
