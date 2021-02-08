@@ -153,6 +153,7 @@
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.250em;
+  margin-left: -131px !important;
 }
 .footer .col ul {
   list-style-type: none;
