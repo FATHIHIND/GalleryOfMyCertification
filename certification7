@@ -31,5 +31,74 @@
         <img class="responsive"  style="border-radius: 11px" src="certification/EssentielleReactJS.png" class="img-fluid" alt="Responsive image">           
         </center>
     </center>
+    
+     <br><br>
+    <div class="footer">
+  <div class="contain">
+  <div class="col">
+    <h1></h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h1></h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h1></h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+  <div class="col">
+  
+    <h1 style="color:white">Développer par: Hind FATHI</h1>
+   
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+  <div class="col">
+      <h1></h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+  <div class="col social">
+      <h1></h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+<div class="clearfix"></div>
+</div>
+</div>
 </body>
 </html>
