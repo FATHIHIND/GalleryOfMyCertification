@@ -34,10 +34,11 @@
         <img class="responsive"  style="border-radius: 11px" src="certification/Angular.png" class="img-fluid" alt="Responsive image">           
         </center>
     </center>
-    <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>
+   
     <br><br>
   <div class="footer">
   <div class="contain">
+   <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>
   <div class="col">
     <h1></h1>
     <ul>
