@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Guy Kawasaki - L'entrepreneuriat</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="style1.css">
 </head>
 <body>
@@ -35,6 +37,7 @@
      <br><br>
     <div class="footer">
   <div class="contain">
+  <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>
   <div class="col">
     <h1></h1>
     <ul>
