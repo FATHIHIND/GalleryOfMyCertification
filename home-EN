@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Gallery Of My Certification</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+  
+   
+    <main role="main" id="main">
+       
+        <nav class="navbar navbar-light" style="background-color: #45569f;height: 54px;margin-top: -16px !important;">
+        
+        </nav>
+        <center>
+            <p id="list" style="margin-top: -37px !important;color: white;">
+               List of my certifications | Hind FATHI (Web Developer)
+            </p>
+        </center>
+        <br><br>
+        <section class="tiles-a">
+            <ul>
+                
+                <li>
+                    <a href="certification1"   style=" content:'View';background:url('certification/Angular.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=120" alt="Starry Night">    
+                        </div>
+                       
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification2" style="background: url('certification/CRM-React.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=640" alt="Ocean beach">
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification3" style="background: url('certification/ReactJs.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=238" alt="Manhattan">
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification4" style="background: url('certification/Docker.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=206" alt="Large bridge">
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification5" style="background: url('certification/MongoDB.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=134" alt="Large bridge">
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification6" style="background: url('certification/NodeJS.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification7" style="background: url('certification/EssentielleReactJS.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=120" alt="Starry Night">
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification8" style="background: url('certification/WebPack4.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=640" alt="Ocean beach">
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification9" style="background: url('certification/IOT.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=238" alt="Manhattan">
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification10" style="background: url('certification/NodeJsExpessJs.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=206" alt="Large bridge">
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification11" style="background: url('certification/ReactEtat.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=134" alt="Large bridge">
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="certification12" style="background: url('certification/EthicalHacking.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="certification13" style="background: url('certification/entrepreneuriat.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="certification14" style="background: url('certification/PHP.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="certification15" style="background: url('certification/BuildForSDGCohort2.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="certification16" style="background: url('certification/LeanSixSigma.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="certification17" style="background: url('certification/PMEC.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="certification18" style="background: url('certification/certif-scrum.JPG'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="certification19" style="background: url('certification/SixSigma.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="certification20" style="background: url('certification/NSE1.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="certification21" style="background: url('certification/NSE2.png'); background-size: cover;" aria-controls="aside" aria-expanded="false">
+                        <div class="details visually-hidden">
+                            <img src="https://unsplash.it/1900/800?image=200" alt="Goat-like animal">
+                        </div>
+                    </a>
+                </li>
+            </ul>
+                
+         
+              
+        </section>
+         <a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a>
+    </main>
+ 
+    <div class="footer">
+  <div class="contain">
+  <div class="col">
+    <h1></h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h1></h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h1></h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+  <div class="col">
+  
+    <h1 style="color:white">
+    <center>
+   Developped by: Hind FATHI | 2021
+    </center>
+    </h1>
+   
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+  <div class="col">
+      <h1></h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+  <div class="col social">
+      <h1></h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+<div class="clearfix"></div>
+</div>
+</div>
+           
+</body>
+</html>
