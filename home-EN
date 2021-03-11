@@ -9,16 +9,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="script.js"></script>
-    <style>
-    #home {
-    color: #45569f;
-    border-style: solid;
-    border-width: 1px 1px 1px 1px;
-    text-decoration: none;
-    padding: 4px;
-    border-color: #45569f;
-    }
-    </style>
+   
 </head>
 <body>
   
