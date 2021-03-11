@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Devenir développeur / développeuse React</title>
+    <title>Become a React developer</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="style1.css">
@@ -18,7 +18,7 @@
         <p id="list" style="margin-top: -36px !important;color: white;">
 
             <center style="margin-top: -18px !important;color: white;">
-                Devenir développeur / développeuse React
+                Become a React developer
             </center>
         </p>
     </center>
