@@ -1,3 +1,3 @@
 GalleryOfMyCertification
 
-This is short project list of of my certifications 🎖
+This is short project list of my certifications 🎖
